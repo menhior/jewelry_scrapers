@@ -1,0 +1,1 @@
+Run both scrapers, then manually combine lists in one excel named "combined" and run check_duplicates.py . This should give you clean dataset.
